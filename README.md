@@ -6,7 +6,6 @@ This repository is for local tests on PostgreSQL with dbt tutorial tables (Custo
 
 ### Using these starter projects
 
-For the local project (master branch):
 - Create your local db profile on your local PostgreSQL (example in [postgres_profile.yml](https://github.com/victorcouste/dbt-tests/tree/master/postgres_profile.yml)) and copy it in your local `~/.dbt/` directory.
 - Upload samples data with `dbt seed` command.
 
