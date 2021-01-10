@@ -1,5 +1,5 @@
 
-### Welcome to this dbt project following dbt tutorial for a local PostgreSQL DB
+### dbt project following dbt tutorial for a local PostgreSQL DB
 
 This repository is for local tests on PostgreSQL with [dbt tutorial](https://docs.getdbt.com/tutorial/setting-up) tables (Customers, Orders and Payments). CSV source files for these tables are in [data](https://github.com/victorcouste/dbt-tests/tree/master/data) directory.
 
