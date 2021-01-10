@@ -1,7 +1,7 @@
 
 ### Welcome to this dbt project following dbt tutorial for a local PostgreSQL DB
 
-This repository is for local tests on PostgreSQL with dbt tutorial tables (Customers, Orders and Payments). CSV source files for these tables are in [data](https://github.com/victorcouste/dbt-tests/tree/master/data) directory.
+This repository is for local tests on PostgreSQL with [dbt tutorial](https://docs.getdbt.com/tutorial/setting-up) tables (Customers, Orders and Payments). CSV source files for these tables are in [data](https://github.com/victorcouste/dbt-tests/tree/master/data) directory.
 
 
 ### Using these starter projects
@@ -21,6 +21,7 @@ Then try running the following commands:
 
 
 ### Resources:
+- Start with [dbt tutorial](https://docs.getdbt.com/tutorial/setting-up)
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
 - Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
 - Join the [chat](http://slack.getdbt.com/) on Slack for live discussions and support
