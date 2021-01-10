@@ -1,9 +1,7 @@
 
-### Welcome to my dbt test projects on a local PostgreSQL DB, Snowflake and BigQuery
+### Welcome to this dbt project following dbt tutorial for a local PostgreSQL DB
 
-- default [master branch](https://github.com/victorcouste/dbt-tests/tree/master) is for local tests on PostgreSQL with dbt tutorial tables (Customers, Orders and Payments). CSV source files for these tables are in [data](https://github.com/victorcouste/dbt-tests/tree/master/data) directory.
-- [snowflake branch](https://github.com/victorcouste/dbt-tests/tree/snowflake) is for simple tests from dbt Cloud on Snowflake databases.
-- [bigquery branch](https://github.com/victorcouste/dbt-tests/tree/bigquery) is for the [tutorial project](https://docs.getdbt.com/tutorial/setting-up) from dbt Cloud on BigQuery with the jaffle_shop customers model.
+This repository is for local tests on PostgreSQL with dbt tutorial tables (Customers, Orders and Payments). CSV source files for these tables are in [data](https://github.com/victorcouste/dbt-tests/tree/master/data) directory.
 
 
 ### Using these starter projects
